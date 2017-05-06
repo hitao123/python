@@ -1,0 +1,6 @@
+weibo/weibo_image/*.*
+weibo/*.txt
+weibo/*.xml
+
+zhihu/*.jpg
+zhihu/*.ini
